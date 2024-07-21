@@ -1,8 +1,4 @@
-# Data Analytics Course Outline
-
-Welcome to the Data Analytics Course! This comprehensive course covers all the essential concepts, tools, and techniques you need to become proficient in data analytics.
-
----
+# Data Analytics Course 
 
 ## Example Lesson: Week 1
 
