@@ -2,61 +2,61 @@
 
 Welcome to the Data Analytics Course! This comprehensive course will cover all the essential concepts, tools, and techniques you need to become proficient in data analytics. Below is the week-by-week breakdown of the course content.
 
-## Week 1: Introduction to Data Analytics
+### Week 1: Introduction to Data Analytics
 - What is data analytics?
 - Importance of data analytics in various fields
 - Types of data: Structured vs. Unstructured
 - Overview of data analytics tools and software
 
-## Week 2: Data Collection and Cleaning
+### Week 2: Data Collection and Cleaning
 - Methods of data collection
 - Data cleaning and preprocessing
 - Handling missing data
 - Introduction to Python libraries: Pandas and NumPy
 
-## Week 3: Exploratory Data Analysis (EDA)
+### Week 3: Exploratory Data Analysis (EDA)
 - Understanding EDA
 - Descriptive statistics: Mean, median, mode, standard deviation
 - Data visualization techniques: Bar charts, histograms, scatter plots
 - Using Matplotlib and Seaborn for visualization
 
-## Week 4: Data Manipulation with Pandas
+### Week 4: Data Manipulation with Pandas
 - Introduction to Pandas DataFrames and Series
 - Reading and writing data with Pandas
 - Data manipulation: Sorting, filtering, grouping
 - Handling large datasets
 
-## Week 5: Statistical Analysis
+### Week 5: Statistical Analysis
 - Basics of probability and statistics
 - Hypothesis testing
 - Correlation and regression analysis
 - Using SciPy for statistical analysis
 
-## Week 6: Introduction to SQL
+### Week 6: Introduction to SQL
 - Basics of SQL and relational databases
 - Writing SQL queries: SELECT, INSERT, UPDATE, DELETE
 - Joins and subqueries
 - Integrating SQL with Python
 
-## Week 7: Advanced Data Visualization
+### Week 7: Advanced Data Visualization
 - Advanced plotting with Matplotlib and Seaborn
 - Interactive visualizations with Plotly
 - Dashboards and data storytelling
 - Best practices for effective data visualization
 
-## Week 8: Introduction to Machine Learning
+### Week 8: Introduction to Machine Learning
 - Basics of machine learning
 - Supervised vs. unsupervised learning
 - Introduction to Scikit-Learn
 - Simple linear regression and classification
 
-## Week 9: Data Ethics and Privacy
+### Week 9: Data Ethics and Privacy
 - Understanding data privacy laws and regulations
 - Ethical considerations in data analytics
 - Anonymization and data protection techniques
 - Case studies on data privacy breaches
 
-## Week 10: Final Project
+### Week 10: Final Project
 - Planning and designing a data analytics project
 - Data collection and cleaning
 - Performing EDA and statistical analysis
